@@ -7,4 +7,4 @@ Recently, I have been interested in legal automation, specifically I am building
 
 ### Contact Information 
 Email: patents@arvindsankar.com
-Social: (Linkedin)[https://www.linkedin.com/in/arvind-sankar-9585a4158/]
+Social: [Linkedin](https://www.linkedin.com/in/arvind-sankar-9585a4158/)
